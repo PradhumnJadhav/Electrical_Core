@@ -1,0 +1,2 @@
+This is Voltage Follower circuit. Output of input waveform is same as input waveform.
+Op_Amp will give required output response  if input signal is between +vcc (+12 v) and -vcc (-12 v).
