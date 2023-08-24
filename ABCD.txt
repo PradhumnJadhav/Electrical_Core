@@ -1,0 +1,16 @@
+Open or close switch to take required readings.
+
+we have 
+  V1  =  A*V2 + B*I2
+  I1  =  C*V2 + D*I2
+
+when I2 is 0 or open circuted 
+A=V1 / V2
+C=I1 /V2
+
+
+when V2=0 short circuited
+B=V1 /I2
+D=I1/I2
+
+done .
